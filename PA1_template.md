@@ -18,7 +18,7 @@ aggregatedDay <- aggregate(steps ~ date, repData, as.vector)
 ```
 
 1. Make a histogram of the total number of steps taken each day
-![](stephistogram/png)<!-- -->
+![](stephistogram.png)<!-- -->
 
 2. Calculate and report the mean and median of the total number of steps taken per day
 
